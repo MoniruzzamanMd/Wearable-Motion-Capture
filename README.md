@@ -4,10 +4,12 @@ The repository for paper "Wearable Motion Capture: Reconstructing and Predicting
 
 The source codes and the new dataset will be publicly available soon!
 
-https://user-images.githubusercontent.com/59179258/134277488-358eee45-f1a8-4916-b4d8-38950f2b69c4.mp4
+# Demo Videos
 
-https://user-images.githubusercontent.com/59179258/134277668-7379fd58-499d-43ee-9e41-96b3d4c83f64.mp4
+https://user-images.githubusercontent.com/59179258/134278760-a309e414-4c7b-466c-ba16-4704a6faf8fa.mp4
 
-https://user-images.githubusercontent.com/59179258/134277767-1d606d4f-5599-43e5-9e99-4abf46deb652.mp4
+https://user-images.githubusercontent.com/59179258/134278782-f799f674-9d37-4dda-9d4b-b02cfa7a03e0.mp4
 
-https://user-images.githubusercontent.com/59179258/134277831-6c54e132-53b8-4526-a25b-7eef6c269853.mp4
+https://user-images.githubusercontent.com/59179258/134278792-a6107fab-ccd4-420b-83b6-a82b63880c2c.mp4
+
+https://user-images.githubusercontent.com/59179258/134278808-5a790951-dcb3-40d0-98fb-daab36796613.mp4
