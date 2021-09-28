@@ -6,6 +6,8 @@ The source codes and the new dataset will be publicly available soon!
 
 # Demo Videos
 
+![treadmill_with_third_person_view](https://user-images.githubusercontent.com/59179258/135166324-299ab348-892a-45f4-8f18-b1c5e45c6abe.gif)
+
 https://user-images.githubusercontent.com/59179258/134278760-a309e414-4c7b-466c-ba16-4704a6faf8fa.mp4
 
 https://user-images.githubusercontent.com/59179258/134278782-f799f674-9d37-4dda-9d4b-b02cfa7a03e0.mp4
