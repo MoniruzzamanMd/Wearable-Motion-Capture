@@ -6,13 +6,7 @@ The source codes and the new dataset will be publicly available soon!
 
 # Demo Videos
 
-https://user-images.githubusercontent.com/59179258/135109291-5776ecf9-5920-40ba-9c44-42c33bb3c7f9.mp4
-
 https://user-images.githubusercontent.com/59179258/135109315-93560afe-6b60-46d4-a4e6-2f455a8de4d7.mp4
-
-https://user-images.githubusercontent.com/59179258/135109328-03b4f29b-986a-4d66-8e08-3e1143c764c2.mp4
-
-https://user-images.githubusercontent.com/59179258/135109352-a0b68592-3a00-41b2-b49a-319e89b27d5c.mp4
 
 # More Demo Videos
 
