@@ -6,7 +6,11 @@ The source codes and the new dataset will be publicly available soon!
 
 # Demo Videos
 
+Treadmill with third-person view
+
 ![treadmill_with_third_person_view](https://user-images.githubusercontent.com/59179258/135166324-299ab348-892a-45f4-8f18-b1c5e45c6abe.gif)
+
+Stair with third-person view
 
 ![stair_with_third_person_view](https://user-images.githubusercontent.com/59179258/135166578-9d38adc3-856e-4ba5-b68f-7f77a41848ab.gif)
 
