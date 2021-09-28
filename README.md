@@ -14,6 +14,14 @@ Stair with third-person view
 
 ![stair_with_third_person_view](https://user-images.githubusercontent.com/59179258/135166578-9d38adc3-856e-4ba5-b68f-7f77a41848ab.gif)
 
+Slope with third-person view
+
+![slope_with_third_person_view](https://user-images.githubusercontent.com/59179258/135167401-7d31e58f-c331-44b7-a5c0-e4bda485bc02.gif)
+
+Avoiding obstacles with third-person view
+
+![obstacles_with_third_person_view](https://user-images.githubusercontent.com/59179258/135167429-92b11cd0-feaa-452e-841a-e414b59c67de.gif)
+
 https://user-images.githubusercontent.com/59179258/134278760-a309e414-4c7b-466c-ba16-4704a6faf8fa.mp4
 
 https://user-images.githubusercontent.com/59179258/134278782-f799f674-9d37-4dda-9d4b-b02cfa7a03e0.mp4
