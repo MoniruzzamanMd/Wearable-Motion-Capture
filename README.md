@@ -14,5 +14,3 @@ https://user-images.githubusercontent.com/59179258/134278792-a6107fab-ccd4-420b-
 
 https://user-images.githubusercontent.com/59179258/134278808-5a790951-dcb3-40d0-98fb-daab36796613.mp4
 
-https://user-images.githubusercontent.com/59179258/135164715-8a55eab8-f39a-423a-b86c-2c9a155903a7.mp4
-
