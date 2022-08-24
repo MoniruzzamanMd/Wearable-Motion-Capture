@@ -27,6 +27,3 @@ https://user-images.githubusercontent.com/59179258/134278760-a309e414-4c7b-466c-
 https://user-images.githubusercontent.com/59179258/134278782-f799f674-9d37-4dda-9d4b-b02cfa7a03e0.mp4
 
 https://user-images.githubusercontent.com/59179258/134278792-a6107fab-ccd4-420b-83b6-a82b63880c2c.mp4
-
-https://user-images.githubusercontent.com/59179258/134278808-5a790951-dcb3-40d0-98fb-daab36796613.mp4
-
