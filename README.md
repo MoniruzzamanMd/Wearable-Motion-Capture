@@ -21,9 +21,3 @@ Walking on Slope
 Walking on Ground and Avoiding Obstacles
 
 ![obstacles_with_third_person_view](https://user-images.githubusercontent.com/59179258/135167429-92b11cd0-feaa-452e-841a-e414b59c67de.gif)
-
-https://user-images.githubusercontent.com/59179258/134278760-a309e414-4c7b-466c-ba16-4704a6faf8fa.mp4
-
-https://user-images.githubusercontent.com/59179258/134278782-f799f674-9d37-4dda-9d4b-b02cfa7a03e0.mp4
-
-https://user-images.githubusercontent.com/59179258/134278792-a6107fab-ccd4-420b-83b6-a82b63880c2c.mp4
