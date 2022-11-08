@@ -2,7 +2,7 @@
 
 The repository for paper "Wearable Motion Capture: Reconstructing and Predicting 3D Human Poses from Wearable Sensors".
 
-The source codes and the new dataset will be publicly available soon!
+The new dataset and the source codes will be made available!
 
 # Demo Videos
 
